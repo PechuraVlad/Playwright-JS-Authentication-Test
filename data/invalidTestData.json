@@ -1,0 +1,16 @@
+{
+    "loginData": [
+      {
+        "email": "incorrect@email.com",
+        "password": "incorrectPassword"
+      },
+      {
+        "email": "test@gmail.com",
+        "password": "incorrectPassword"
+      },
+      {
+        "email": "incorrect@email.com",
+        "password": "12345678"
+      }
+    ]
+  }
